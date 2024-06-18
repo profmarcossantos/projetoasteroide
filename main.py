@@ -1,3 +1,4 @@
 import os
 os.system("cls")
-print("Bem-vindo ao Projeto Asteróide!")
+mensagem = "Bem-vindo ao Projeto Asteróide!"
+print(mensagem)
